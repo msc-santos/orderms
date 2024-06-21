@@ -1,5 +1,8 @@
 # Desafio de Engenheiro de software
 
+Criar um micro serviço que consuma dados de uma fila RabbitMQ e grave os dados para conseguir listar as informações:
+Valor total do pedido, quantidade de pedidos por cliente lista de pedidos realizados por cliente.
+
 ## Observações: 
 - [Vídeo do desafio](https://www.youtube.com/watch?v=e_WgAB0Th_I&list=WL&index=3)
 - [Vídeo sobre micro serviços](https://www.youtube.com/watch?v=K1wPxx-YZyM&list=WL&index=6)
